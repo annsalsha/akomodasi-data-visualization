@@ -78,7 +78,6 @@ Penjelasan singkat:
 
 ## 📊 4. Hasil Visualisasi
 
-Dashboard dibuat menggunakan **Tableau** dan dapat dibuka melalui file tableau/Dashboard_Data_Akomodasi.twbx
 Hasil visualisasi menunjukkan bahwa villa merupakan akomodasi terbanyak di Kota Batu dengan 309 unit, disusul homestay dan hotel. Dominasi villa ini sejalan dengan karakter wisatawan Batu yang umumnya datang berkelompok atau bersama keluarga. Sebaran akomodasi paling banyak ditemukan di wilayah Ngaglik, Sisir, Oro-oro Ombo, dan Temas, yakni area yang berdekatan dengan pusat wisata populer. Villa sendiri banyak terkonsentrasi di Songgoriti dan pusat kota, dua area yang menawarkan daya tarik berbeda: udara sejuk dan panorama alam, serta akses strategis ke fasilitas umum.
 
 Dari sisi fasilitas, hotel cenderung lebih lengkap (kolam renang, restoran), sementara fasilitas villa dan homestay lebih bervariasi. Sebagian besar hotel di Batu belum memiliki klasifikasi bintang yang jelas, dan yang terdaftar didominasi hotel bintang 3. Harga akomodasi juga bervariasi: villa berada pada kisaran rendah–menengah, hotel umumnya lebih tinggi, sedangkan homestay relatif stabil terutama di area pusat kota.
